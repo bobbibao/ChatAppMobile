@@ -1,0 +1,16 @@
+{
+    "expo": {
+        "name": "ChatBb App",
+        "icon": "./assets/icon.png",
+        "version": "1.0.0",
+        "slug": "chatbb-app",
+        "ios": {
+            "bundleIdentifier": "com.bobbi.chatbb",
+            "buildNumber": "1.0.0"
+        },
+        "android": {
+            "package": "com.bobbi.chatbb",
+            "versionCode": 1
+        }
+    }
+}
